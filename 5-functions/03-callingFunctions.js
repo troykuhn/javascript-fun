@@ -19,3 +19,6 @@ function math(){
 }
 
 math();
+
+//IIFE
+(function() { console.log('Why is this working?')})();
