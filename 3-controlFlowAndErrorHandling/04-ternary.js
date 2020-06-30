@@ -22,3 +22,6 @@ let age = 17;
 : (age >= 18)
 ? console.log("Yay you can vote.")
 : console.log("Sorry you're too young.");
+
+// for-in : Uses any kind of collection (obj,  array, string)
+// for-of : Uses ITERABLE collections (array, string, etc.)
